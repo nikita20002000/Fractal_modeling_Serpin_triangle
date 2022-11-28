@@ -16,7 +16,7 @@ nik.setpos(-width // 3, -height // 2)
 nik.color('red')
 
 
-#1-system settigs
+#1-system settig
 gens = 7
 axiom = 'F'
 chr_1, rule_1 = 'F', 'F-G+F+G-F'
